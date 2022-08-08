@@ -8,3 +8,22 @@
 
 
 **Note:** Heuristics are created using Dijkstra algorithm.
+
+**Screenshots of output:**
+<p align="center">
+  <img width="900" height="500" src="Screenshots/Report 1.jpg">
+</p>
+<p align = "center">
+</p>
+
+<p align="center">
+  <img width="900" height="500" src="Screenshots/Report 2.jpg">
+</p>
+<p align = "center">
+</p>
+
+<p align="center">
+  <img width="900" height="500" src="Screenshots/Report 3.jpg">
+</p>
+<p align = "center">
+</p>

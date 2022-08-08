@@ -11,19 +11,19 @@
 
 **Screenshots of output:**
 <p align="center">
-  <img width="900" height="500" src="Screenshots/Report 1.jpg">
+  <img width="700" height="500" src="Screenshots/Report 1.jpg">
 </p>
 <p align = "center">
 </p>
 
 <p align="center">
-  <img width="900" height="500" src="Screenshots/Report 2.jpg">
+  <img width="700" height="500" src="Screenshots/Report 2.jpg">
 </p>
 <p align = "center">
 </p>
 
 <p align="center">
-  <img width="900" height="500" src="Screenshots/Report 3.jpg">
+  <img width="700" height="500" src="Screenshots/Report 3.jpg">
 </p>
 <p align = "center">
 </p>
